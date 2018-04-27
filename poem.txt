@@ -8,11 +8,8 @@ Unicorn
 Yellow 
 Orange
 Red
-
 Pink
-
 Cyan
-
 Grey
 
 These are colors of rainbow and the unicorn
