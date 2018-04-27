@@ -9,3 +9,6 @@ Orange
 Red
 
 Pink
+
+Cyan
+
